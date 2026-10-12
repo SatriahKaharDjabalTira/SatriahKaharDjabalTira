@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm SATRIAH KAHAR DJABAL TIRA</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aikitsu1475-sudo">
-    <img src="https://komarev.com/ghpvc/?username=aikitsu1475-sudo&label=Profile%20views&color=00FFFF&style=flat-square" alt="aikitsu1475-sudo's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=SatriahKaharDjabalTira">
+    <img src="https://komarev.com/ghpvc/?username=SatriahKaharDjabalTira&label=Profile%20views&color=00FFFF&style=flat-square" alt="SatriahKaharDjabalTira's profile views" />
   </a>
 </p>
 
 ## 📌 About Me
-- Saya sedang belajar bahasa pemrograman dan bercita - cita menjadi web developer fullstack.
+​- Saya sedang belajar bahasa pemrograman dan bercita - cita menjadi web developer fullstack.
 
 
 ## 🧠 My Focus Areas
-- WEB DEVELOPMENT
+​- WEB DEVELOPMENT
 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/aikitsu1475-sudo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aikitsu1475-sudo&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="aikitsu1475-sudo's GitHub Stats" />
+  <a href="https://github.com/SatriahKaharDjabalTira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatriahKaharDjabalTira&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="SatriahKaharDjabalTira's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=aikitsu1475-sudo&theme=radical&hide_border=true&cache_seconds=86400" alt="aikitsu1475-sudo's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=SatriahKaharDjabalTira&theme=radical&hide_border=true&cache_seconds=86400" alt="SatriahKaharDjabalTira's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=aikitsu1475-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SATRIAH KAHAR DJABAL TIRA's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=SatriahKaharDjabalTira&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SATRIAH KAHAR DJABAL TIRA's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aikitsu1475-sudo&theme=radical&radius=10" alt="aikitsu1475-sudo's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SatriahKaharDjabalTira&theme=radical&radius=10" alt="SatriahKaharDjabalTira's Activity Graph" />
 </p>
 
 
@@ -78,8 +78,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aikitsu1475-sudo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aikitsu1475-sudo&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/SatriahKaharDjabalTira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatriahKaharDjabalTira&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -98,5 +98,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(
